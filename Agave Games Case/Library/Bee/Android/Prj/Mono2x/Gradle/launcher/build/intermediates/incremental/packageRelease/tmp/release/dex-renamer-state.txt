@@ -1,4 +1,0 @@
-#Fri May 16 21:21:24 TRT 2025
-base.0=/Users/bilgehandemirkaya/Github/new-Agave-Games/Agave-Games-Case/Agave Games Case/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

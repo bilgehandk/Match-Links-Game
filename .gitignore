@@ -75,3 +75,6 @@ crashlytics-build.properties
 # IDE specific files
 .idea/
 .vscode/
+
+# Project specific
+Agave Games Case/Library/
